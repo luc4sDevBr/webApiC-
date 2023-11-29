@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ldBNLKdEjJPgQoLNHpE8wRiNoqGqOW4J3F5EWfsuhVk=",
+  "Source": "WebApiEstoque",
+  "BasePath": "_content/WebApiEstoque",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
